@@ -1,0 +1,97 @@
+
+body {
+	text-align: center;
+	background-color: #152238;
+}
+
+header {
+	color: white;
+}
+
+nav {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+}
+
+p{
+	color: white
+}
+
+a{
+	color: white;
+}
+
+#hxh{
+	position: absolute;
+	left: 270px;
+}
+
+#hxh2{
+	position: absolute;
+	left: 290px;
+}
+#aot{
+	position: absolute;
+	right: 270px;
+}
+
+#aot2{
+	position: absolute;
+	right: 290px;
+}
+
+#h{
+	position: absolute;
+	left: 400px;
+}
+
+#h2{
+	position: absolute;
+	left: 470px;
+	top: 665px;
+}
+
+#mha{
+	position: absolute;
+	right: 400px;
+}
+
+#mha2{
+	position: absolute;
+	right: 410px;
+	top: 665px;
+}
+
+#socialmedia{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+}
+
+.app a:link{
+    display: block;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.app a:visited{
+    color: azure;
+}
+
+.app a:hover{
+    background-color: darkblue;
+    color: white;
+}
+
+.app a:active{
+    background-color: black;
+    color: white;
+}
